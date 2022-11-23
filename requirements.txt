@@ -1,0 +1,5 @@
+#Add the project dependencies to this file
+pip
+flask
+uvicorn
+tinydb
